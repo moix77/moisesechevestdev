@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        /* Estilos gerais */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        nav ul {
+            background-color: #333;
+            list-style-type: none;
+            padding: 0;
+        }
+
+        nav ul li {
+            display: inline;
+            margin-right: 20px;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: #fff;
+        }
+
+        main {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+        }
+
+        article {
+            margin-bottom: 30px;
+            border-bottom: 1px solid #ccc;
+        }
+
+        /* Estilos específicos para artigos */
+        article h2 {
+            font-size: 24px;
+            margin-top: 0;
+        }
+
+        /* Estilos para o rodapé */
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background-color: #333;
+            color: #fff;
+        }
+    </style>
+    <title>Moisés Echeveste </title>
+</head>
+<body>
+    <header>
+        <h1>Moisés Echeveste </h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#">Início</a></li>
+            <li><a href="sobre.html">Sobre</a></li>
+            <li><a href="#">Contato</a></li>
+        </ul>
+    </nav>
+    <main>
+        <article>
+            <h2> Boa Noite </h2>
+            <p>A nescessidade de estar conectado, colecionar informações de uma realidade programada! Quantos Gigabyte tem sua alma?.</p>
+	<h1>Olá Mundo!</h1>
+    <img src="https://urbanarts.vteximg.com.br/arquivos/ids/4775500/quadro-anonymous.jpg?v=637201364984270000" alt="Descrição da imagem">
+            <p>Data de Publicação: 19 de Setembro de 2023</p>
+        </article>
+        <article>
+            <h2>Título do Artigo 2</h2>
+            <p>A felicidade só é real quando compartilhada?.</p>
+	<img src="https://f83cb44670.cbaul-cdnwnd.com/d1e1a936306a9319cb5ae344bd6f5e3b/200000020-3c9123c914/black%20home-7.jpeg?ph=f83cb44670 " alt="Descrição da imagem">
+            <p>Data de Publicação: 20 de Setembro de 2023</p>
+        </article>
+  <article>
+            <h2>Título do Artigo 2</h2>
+            <p>x.</p>
+	<img src="https://f83cb44670.cbaul-cdnwnd.com/d1e1a936306a9319cb5ae344bd6f5e3b/200000022-c1ab4c1ab7/violin-6.jpeg?ph=f83cb44670 " alt="Descrição da imagem">
+            <p>Data de Publicação: 21 de Setembro de 2023</p>
+        </article>
+
+  <article>
+            <h2>Título do Artigo 2</h2>
+            <p>.</p>
+	<img src="https://f83cb44670.cbaul-cdnwnd.com/d1e1a936306a9319cb5ae344bd6f5e3b/200000018-b7d9db7d9f/desenho%20peste%20negra-7.jpeg?ph=f83cb44670 " alt="Descrição da imagem">
+            <p>Data de Publicação: 21 de Setembro de 2023</p>
+        </article>
+    </main>
+    <footer>
+        <p>&copy; 2023 Moisés Echeveste</p>
+    </footer>
+</body>
+</html>
